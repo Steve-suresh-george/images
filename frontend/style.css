@@ -14,7 +14,7 @@
     align-content:center;
 }
 .logo{
-    background-image: url(logo.png);
+    background-image: url(images/logo.png);
     background-size:contain;
     height: 60px;
     width: 200px;
@@ -99,7 +99,7 @@ strike{
     color: orange;
 }
 .home{
-    background-image: url(house.png);
+    background-image: url(images/house.png);
     height:480px;
     width:500px;
     background-size: contain;
@@ -112,7 +112,7 @@ strike{
 .partners{
     align-items: center;
     display: flex;
-    background-image: url(partners.png);
+    background-image: url(images/partners.png);
     width: 800px;
     height: 280px;
     background-repeat: no-repeat;
@@ -300,7 +300,7 @@ button.bo {
 .hero {
     /*height: 100%;*/
       position: relative;
-       background-image: url(WhatsAppImage.jpg);; /* Example background */
+       background-image: url(images/WhatsAppImage.jpg);; /* Example background */
       background-size: cover;
       background-position: center;
       height: 100vh;
